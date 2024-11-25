@@ -1,3 +1,9 @@
 # Instructions
+'''
+Blackjack is a game of gambling, however if you assumed every hand was an indepndent event, then we know
+the way to play perfectly. The method of playing is called basic strategy. In this assignment, you will
+be writing code to create a perfect strategy trainer for blackjack. The user will randomly be given a hand
+for them and a card up for the dealer. Based on this knowledge, the user will choose Hit, Stand, Double, or Split.
+If they are correct with the basic strategy, it will output "Correct call!" or if wrong "Incorrect!"
 
 # Code
